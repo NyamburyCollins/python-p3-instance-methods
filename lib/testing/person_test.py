@@ -8,6 +8,7 @@ import types
 
 class TestPerson:
     '''Person in person.py'''
+    self.name = name
 
     def test_is_class(self):
         '''is a class with the name "Person"'''
