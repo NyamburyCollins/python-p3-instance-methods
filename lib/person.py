@@ -4,12 +4,13 @@ class Person:
     # Class body goes here
 
     #Instance method definition
-     def talk(self):
+    def talk(self):
         print("Hello World!")
 
-    def walk(self):
+    def walk(self):  # Fixed indentation
         print("The person is walking.")
-    #Instance method definition
+    
+    
     pass
 
 jim = Person()
